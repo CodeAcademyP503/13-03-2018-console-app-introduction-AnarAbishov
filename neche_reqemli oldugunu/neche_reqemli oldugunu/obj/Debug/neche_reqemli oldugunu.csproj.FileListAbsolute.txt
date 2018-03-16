@@ -1,0 +1,7 @@
+C:\Users\Anar\Desktop\neche_reqemli oldugunu\neche_reqemli oldugunu\bin\Debug\neche_reqemli oldugunu.exe.config
+C:\Users\Anar\Desktop\neche_reqemli oldugunu\neche_reqemli oldugunu\bin\Debug\neche_reqemli oldugunu.exe
+C:\Users\Anar\Desktop\neche_reqemli oldugunu\neche_reqemli oldugunu\bin\Debug\neche_reqemli oldugunu.pdb
+C:\Users\Anar\Desktop\neche_reqemli oldugunu\neche_reqemli oldugunu\obj\Debug\neche_reqemli oldugunu.csprojResolveAssemblyReference.cache
+C:\Users\Anar\Desktop\neche_reqemli oldugunu\neche_reqemli oldugunu\obj\Debug\neche_reqemli oldugunu.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\neche_reqemli oldugunu\neche_reqemli oldugunu\obj\Debug\neche_reqemli oldugunu.exe
+C:\Users\Anar\Desktop\neche_reqemli oldugunu\neche_reqemli oldugunu\obj\Debug\neche_reqemli oldugunu.pdb
