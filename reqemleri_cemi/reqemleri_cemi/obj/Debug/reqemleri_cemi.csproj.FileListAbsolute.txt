@@ -1,0 +1,7 @@
+C:\Users\Anar\Desktop\reqemleri_cemi\reqemleri_cemi\bin\Debug\reqemleri_cemi.exe.config
+C:\Users\Anar\Desktop\reqemleri_cemi\reqemleri_cemi\bin\Debug\reqemleri_cemi.exe
+C:\Users\Anar\Desktop\reqemleri_cemi\reqemleri_cemi\bin\Debug\reqemleri_cemi.pdb
+C:\Users\Anar\Desktop\reqemleri_cemi\reqemleri_cemi\obj\Debug\reqemleri_cemi.csprojResolveAssemblyReference.cache
+C:\Users\Anar\Desktop\reqemleri_cemi\reqemleri_cemi\obj\Debug\reqemleri_cemi.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\reqemleri_cemi\reqemleri_cemi\obj\Debug\reqemleri_cemi.exe
+C:\Users\Anar\Desktop\reqemleri_cemi\reqemleri_cemi\obj\Debug\reqemleri_cemi.pdb
